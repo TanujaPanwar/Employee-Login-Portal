@@ -13,9 +13,9 @@
 			<property name="javax.persistence.jdbc.url"
 				value="jdbc:mysql://localhost:3306/employee_login_info?createDatabaseIfNotExist=true" />
 			<property name="javax.persistence.jdbc.user"
-				value="root" />
+				value="username" />
 			<property name="javax.persistence.jdbc.password"
-				value="root" />
+				value="password" />
 			<property name="hibernate.show_sql" value="true" />
 
 
